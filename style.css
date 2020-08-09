@@ -8,6 +8,10 @@
   outline: none;
 }
 
+html {
+  overflow-x:hidden;
+}
+
 /* Убираем внутренние отступы */
 ul[class],
 ol[class] {
